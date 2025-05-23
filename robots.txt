@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gameviralblast.github.io/viralnews/sitemap.xml
